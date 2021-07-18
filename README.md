@@ -1,43 +1,44 @@
 # incursion
-In order to make the Incursions more secure for the participants, the Incursion Department has introduced the SRP (Ship's Compensation Program). This means that if your ship falls for any reason during the incursion, you will receive the full JitaSell price for that fit.
-In order to implement this system, we will be collecting a premium from those who have joined the fleet upon leaving the fleet, according to the following conditions
+これからインカ部に参加される方へお知らせです。
+参加者がより安心してインカージョン攻略できるようにインカ部ではSRP（艦船補償制度）を導入しました。これは攻略中何らかの原因で船が落ちた場合にそのFitのJitaSell価格を満額支給するものです。
+導入するにあたりフリートに参加した方からフリート離脱時に保険料を以下の条件にしたがって徴収させていただきます。
 
-1) N-JD
-2) Inca club beginners (less than 5 days of participation in Inca club)
-0.5M per site for those who meet the above conditions (1) and (2).
+①N-JD
+②インカ部初心者（インカ部参加日数5日未満）
+上記条件①②に該当する方は1サイトあたり0.5M
 
-(3) Those who do not meet the above conditions (1) and (2) will receive 1M per site.
+③上記条件①②以外の方は1サイトあたり1M
 
-These figures are based on the case where the number of people receiving the clear reward is 10 (20 in the case of AS), and for each additional person, the amount will be reduced by 0.05M for those who fall under (1) and (2), and by 0.1M for those who fall under (3).
-
-
-The calculation formula is as follows.
-The number of people who receive the reward will be checked from the journal.
-
-Number of site attacks × (Basic amount - Reduction × Excess number of people)
+これらはクリア報酬受取人数が10人（ASの場合20人）の場合で、そこから1人増える毎に①②に該当する方は0.05M、③に該当する方は0.1M減額されます。
 
 
+計算式は以下の通りです。
+また報酬受取人数はジャーナルから確認するものとします。
 
-Premium calculation example A)
-Number of recipients: 13 Number of sites attacked: 11
-(1) (2) 11(0.5 - 0.05 x 3) = 3.85M
-(3) 11(1 - 0.1 x 3) = 7.7M
+サイト攻略数 × (基本額 - 減額 × 超過人数)
 
-Example of premium calculation B)
-Number of recipients: 14 Number of sites attacked: 9　
-Number of recipients: 12 Number of sites attacked: 3
+
+
+保険料計算例A）
+報酬受取人数：13人 攻略したサイト数：11
+①② 11(0.5 - 0.05 × 3) = 3.85M
+③　 11(1 - 0.1 × 3) = 7.7M
+
+保険料計算例B）
+報酬受取人数：14人 攻略したサイト数：9　
+報酬受取人数：12人 攻略したサイト数：3
 ①② 9(0.5 - 0.05 × 4) + 3(0.5 - 0.05 × 2) = 3.9M
-(3) 9(1 - 0.1 × 4) + 3(1 - 0.1 × 2) = 7.8M
+③　 9(1 - 0.1 × 4) + 3(1 - 0.1 × 2) = 7.8M
 
-Premium Calculation Example C)
-Number of recipients: 10 Number of sites attacked: 11
+保険料計算例C）
+報酬受取人数：10人 攻略したサイト数：11
 ①② 11 × 0.5 = 5.5M
-(3) 11 × 1 = 11M
+③　 11 × 1 = 11M
 
 
-This system is a kind of mutual aid insurance.
-If you noticeably forget to send money, we will judge that you have no intention to send money and you will not receive SRP, except for exceptions.
-Exceptions.
-If FC/logistics error is a factor, half of Fit's JitaSell price will be paid.
+この制度はある種の共済保険です。
+送金忘れが目立ちますと送金の意思がないと判断し、例外を除きSRPを受けられません。
+例外）
+FC・ロジエラーが要因の場合はFitのJitaSell価格の半額を支給します。
 
-SRP Corp/Insurance remittance to: NACHO Incurison Club
+SRPコーポ/保険料送金先：NACHO Incurison Club
